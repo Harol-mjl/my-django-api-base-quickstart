@@ -1,0 +1,9 @@
+.idea/*
+.env
+.run
+*.env
+
+db.sqlite3
+db.sqlite3-journal
+
+.DS_Store
